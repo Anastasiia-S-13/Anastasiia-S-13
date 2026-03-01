@@ -24,11 +24,7 @@ Currently, I’m expanding into mobile development with React Native, aiming to 
 	•	Strengthening JavaScript fundamentals
 	•	Growing toward a mobile-focused developer role
 
-## Languages 
+## 🗣️ Languages 
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![German](https://img.shields.io/badge/German-B1-blue?style=flat-square)
-
-With a background in journalism, I bring strong analytical thinking, structured problem-solving, and clear communication into tech.
-
-I’m actively looking for opportunities to grow, contribute, and build impactful digital products.
