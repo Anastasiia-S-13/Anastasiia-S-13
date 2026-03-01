@@ -1,7 +1,7 @@
 ## 👋 Hi, I am Anastasiia Anisimova
 Fullstack Developer | React | Next.js | Node.js
 
-## Contacts:
+## 📫 Contacts:
 [LinkedIn](https://www.linkedin.com/in/anastasiia-anisimova-developer/),
 [Email](anisimovaanastasiia.s@gmail.com)
 
