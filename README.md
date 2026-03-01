@@ -1,4 +1,4 @@
-## Hi, I am Anastasiia Anisimova
+## 👋 Hi, I am Anastasiia Anisimova
 Fullstack Developer | React | Next.js | Node.js
 
 Contacts:
